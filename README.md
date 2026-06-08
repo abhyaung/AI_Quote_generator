@@ -1,11 +1,3 @@
-# AI Quote Generator ⚡
-
-> An AI-powered quoting tool built for home services and trades businesses.
-> Describe a job — get a professional, itemized estimate in seconds.
-
-
-
-
 
 # AI Quote Generator ⚡
 
