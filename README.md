@@ -95,5 +95,3 @@ genuinely change how trades businesses operate day to day.
 - Connect to ServiceTitan or Jobber via API
 
 ---
-
-Built by [Your Name](https://github.com/YOURUSERNAME) · Inspired by Built By The Trades
