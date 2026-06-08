@@ -1,16 +1,37 @@
-# React + Vite
+# AI Quote Generator ⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> An AI-powered quoting tool built for home services and trades businesses.
+> Describe a job — get a professional, itemized estimate in seconds.
 
-Currently, two official plugins are available:
+<img width="1486" height="1172" alt="image" src="https://github.com/user-attachments/assets/56c88032-6c18-4c0a-8419-a3569adad8ce" />
+<img width="1493" height="1253" alt="image" src="https://github.com/user-attachments/assets/8a45ab0d-b95a-4277-a433-020fcc1a6e36" />
+<img width="1490" height="1249" alt="image" src="https://github.com/user-attachments/assets/4d653759-56fe-43b7-b752-345177ac098e" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+[View Live App](https://your-vercel-url-here.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💡 Why I Built This
+
+Built By The Trades is launching a suite of AI-powered products for the trades industry — including a quoting product. I built this to show how I think about the problem: a clean, fast, AI-powered tool that generates professional contractor quotes from a simple job description.
+
+---
+
+## ✨ Features
+
+- Describe any home services job in plain English
+- AI generates a fully itemized, professional quote instantly
+- Includes labor, materials, tax, warranty terms, and payment schedule
+- Clean, responsive UI built for trades operators
+- Powered by Google Gemini AI
+
+---
+
+## 🛠️ Tech Stack
+
+- **R
