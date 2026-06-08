@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-[[View Live App](https://your-vercel-url-here.vercel.app)](https://ai-quote-generator-sigma.vercel.app/)
+[[View Live App](https://ai-quote-generator-sigma.vercel.app/)]
 
 ---
 
