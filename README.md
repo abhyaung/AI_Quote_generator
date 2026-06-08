@@ -5,8 +5,7 @@
 > Describe a job — get a professional, itemized estimate in seconds.
 
 <img width="1486" height="1172" alt="image" src="https://github.com/user-attachments/assets/56c88032-6c18-4c0a-8419-a3569adad8ce" />
-<img width="1493" height="1253" alt="image" src="https://github.com/user-attachments/assets/8a45ab0d-b95a-4277-a433-020fcc1a6e36" />
-<img width="1490" height="1249" alt="image" src="https://github.com/user-attachments/assets/4d653759-56fe-43b7-b752-345177ac098e" />
+
 
 ---
 
@@ -64,7 +63,9 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-
+<img width="1486" height="1172" alt="image" src="https://github.com/user-attachments/assets/56c88032-6c18-4c0a-8419-a3569adad8ce" />
+<img width="1493" height="1253" alt="image" src="https://github.com/user-attachments/assets/8a45ab0d-b95a-4277-a433-020fcc1a6e36" />
+<img width="1490" height="1249" alt="image" src="https://github.com/user-attachments/assets/4d653759-56fe-43b7-b752-345177ac098e" />
 
 ---
 
